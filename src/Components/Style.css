@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(250, 246, 246);
+}
+
+.container {
+  border: 1px solid black;
+}
+.form {
+  border-bottom: 1px solid black;
+}
+.form-control {
+  border: 1px solid black;
+}
+table {
+  border: 1px solid black;
+}
